@@ -1,0 +1,22 @@
+{
+	"theme": "Brogrammer.sublime-theme",
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"color_scheme": "Packages/Aurora Color Scheme/Aurora.tmTheme",
+	"font_size": 21,
+	"caret_style": "phase",
+	"highlight_line": true,
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"fade_fold_buttons": false,
+	"bold_folder_labels": true,
+	"save_on_focus_lost": true,
+	"highlight_modified_tabs": true,
+	"use_simple_full_screen": true,
+	"font_options":["bold"], 
+}
+
+// // 
+// Patch it in /home/ritabrata/.config/sublime-text/Packages/User

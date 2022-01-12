@@ -1,0 +1,87 @@
+// Documentation at https://www.sublimetext.com/docs/color_schemes.html
+{
+	"variables":
+	{
+	},
+	"globals":
+	{
+		"background": "rgb(0, 5, 50)",
+	},
+	"rules":
+	[
+		{
+			"name": "Comment",
+			"scope": "comment",
+			"foreground": "#888888"
+		},
+		{
+			"name": "String",
+			"scope": "string",
+			"foreground": "#ffff00"
+		},
+		{
+			"name": "Built-in constant",
+			"foreground": "#45ffff"
+		},
+		{
+			"name": "Number",
+			"scope": "constant.numeric",
+			"foreground": "#00ffff"
+		},
+		{
+			"name": "Tag name",
+			"scope": "entity.name.tag",
+			"foreground": "#ff00aa"
+		}, 
+		{
+			"name": "Tag attribute",
+			"scope": "entity.other.attribute-name",
+			"foreground": "#2aff00"
+		},
+		{
+			"name": "Library function",
+			"scope": "support.function",
+			"foreground": "#787fff"
+		},
+		{
+			"name": "Function name",
+			"scope": "entity.name.function",
+			"foreground": "#00ff00"
+		},
+		{
+			"name": "Function argument",
+			"scope": "variable.parameter",
+			"foreground": "#ff9b00"
+		},
+		{
+			"name": "Keyword",
+			"scope": "keyword",
+			"foreground": "#ff003a"
+		},
+		{
+			"name": "Storage",
+			"scope": "storage",
+			"foreground": "#ff003a"
+		}, 
+		{
+			"name": "Storage type",
+			"scope": "storage.type",
+			"foreground": "#787fff"
+		},
+		{
+			"name": "Library class type",
+			"scope": "support.type, support.class",
+			"foreground": "#787fff"
+		}, 
+		{
+			"name": "Library constant",
+			"scope": "support.constant",
+			"foreground": "#787fff"
+		},
+		{
+			"name": "JSON Structure",
+			"scope": "meta.structure.dictionary.json string.quoted.double.json",
+			"foreground": "#787fff"
+		}
+	]
+}
